@@ -2,7 +2,7 @@
 
 ### AIM:
 
-#### To Write a Program to check the given number is palindrome or not.
+#### To Write a Program to check the given number is prime or not.
 
 ### EQUIPMENTS REQUIRED:
 
@@ -33,4 +33,4 @@
 
 
 ### RESULT
-#### Hence the Java program to check the given number is palindrome or not was executed successfully.
+#### Hence the Java program to check the given number is prime or not was executed successfully.
