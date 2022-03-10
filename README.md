@@ -1,36 +1,38 @@
-## EX1.b: Basic Program
+# EX1.b: Basic Program
 
-### AIM:
+## AIM:
 
-#### To Write a Program to check the given number is prime or not.
+To Write a Program to check the given number is prime or not.
 
-### EQUIPMENTS REQUIRED:
+## EQUIPMENTS REQUIRED:
 
-#### Eclipse 2021-03
+Eclipse 2021-03
 
-### ALGORITHM:
+## ALGORITHM:
 
-#### Step 1: Start the program.
+Step 1: Start the program.
 
-#### Step 2: Get input from user.
+Step 2: Get input from user.
 
-#### Step 3: Check whether the given number can only divide by 1 and itself.
+Step 3: Check whether the given number can only divide by 1 and itself.
 
-#### Step 4: If yes print "Number is prime",Else print "not prime"
+Step 4: If yes print "Number is prime",Else print "not prime"
 
-#### Step 5: Stop the program.
+Step 5: Stop the program.
 
-### PROGRAM:
-
-
-
-
-
-
-
+## PROGRAM:
+```
+/*
+Program to print the check the given number is prime or not.
+Developed by:
+Registeration Number :
+*/
+```
+## OUTPUT
+![Output](Output.png)
 
 
 
 
 ### RESULT
-#### Hence the Java program to check the given number is prime or not was executed successfully.
+Hence the Java program to check the given number is prime or not was written executed successfully.
